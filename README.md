@@ -74,6 +74,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Facebook](https://www.facebook.com/rajarsi.saha.3997/) - [rajarsi3997@gmail.com](mailto://rajarsi3997@gmail.com)
+Rajarsi Saha - [Facebook](https://www.facebook.com/rajarsi.saha.3997/) - [rajarsi3997@gmail.com](mailto://rajarsi3997@gmail.com)
 
 Project Link: [https://github.com/RajarsiGit/Node-CLI](https://github.com/RajarsiGit/Node-CLI)
