@@ -26,7 +26,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 14
-          registry-url: https://registry.npmjs.org/:_authToken=${secrets.npm_token}
+          registry-url: https://registry.npmjs.org/:_authToken=${{secrets.npm_token}}
       - run: npm ci
       - run: npm publish --access public
         env:
