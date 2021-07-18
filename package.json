@@ -1,6 +1,6 @@
 {
   "name": "hello-name-cli",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "A hello name CLI using Node",
   "main": "bin/index.js",
   "scripts": {
