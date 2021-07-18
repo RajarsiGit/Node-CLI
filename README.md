@@ -42,17 +42,9 @@ Installation of latest version of NPM
 
 ### Installation
 
-1. Clone the repo
+1. Install NPM packages
    ```sh
-   git clone https://github.com/RajarsiGit/Node-CLI.git
-   ```
-1. CD into the ./hello directory
-   ```sh
-   cd hello
-   ```
-2. Install NPM packages
-   ```sh
-   npm install -g .
+   npm install -g hello-name-cli
    ```
 
 
@@ -60,7 +52,7 @@ Installation of latest version of NPM
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-From anywhere open CMD or Powershell and type `hello`
+From anywhere open CMD or Powershell and type `hello-name-cli`
 
 
 

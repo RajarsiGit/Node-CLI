@@ -1,7 +1,7 @@
 {
-  "name": "hello",
-  "version": "1.0.0",
-  "description": "A hello CLI",
+  "name": "hello-name-cli",
+  "version": "1.0.2",
+  "description": "A hello name CLI using Node",
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
